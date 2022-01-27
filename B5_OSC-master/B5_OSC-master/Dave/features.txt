@@ -1,0 +1,21 @@
+Features included in my code so far:
+
+Multiple Classes
+Objects
+Inheritance
+
+
+Loops
+Conditional statements
+Conditional loops
+
+
+
+
+
+
+
+Needed:
+Databases
+Integration
+Libraries?
